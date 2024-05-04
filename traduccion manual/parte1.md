@@ -1,6 +1,6 @@
 # ZUOYA GMK67 ESPAÑOL
 
-Manual en inglés del Teclado ZUOYA GMK67, traducido al español elaborado a partir de la versión impresa original (inglés). por Adrian German
+Manual en inglés del Teclado ZUOYA GMK67, traducido al español, elaborado a partir de la versión impresa original (inglés). Por Adrian Germán
 Gracias por ver esta guía, espero te sea de ayuda :)
 
 ###### Para poder comprender y utilizar todas las funciones de este kit de teclado, lea atentamente esta guía sobre su funcionamiento.
