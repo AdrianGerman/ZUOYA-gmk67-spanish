@@ -29,13 +29,13 @@ Gracias por ver esta guía, espero te sea de ayuda :)
 
 ## RGB y modos de iluminación.
 
-`FN + ⬆️`: Aumentar el brillo de la iluminación RGB.
-`FN + ⬇️`: Reducir el brillo de la iluminación RGB.
-`FN + ⬅️`: Cambiar la dirección de los patrones de iluminación RGB.
-`FN + ➡️`: Cambiar el color de la iluminación RGB.
-`FN + [{`: Reducir la velocidad de la iluminación RGB.
-`FN + }]`: Aumentar la velocidad de la iluminación RGB.
-`FN + \\`: Cambiar entre los diferentes modos de iluminación RGB con un total de 18 modos distintos.
+- `FN + ⬆️`: Aumentar el brillo de la iluminación RGB.
+- `FN + ⬇️`: Reducir el brillo de la iluminación RGB.
+- `FN + ⬅️`: Cambiar la dirección de los patrones de iluminación RGB.
+- `FN + ➡️`: Cambiar el color de la iluminación RGB.
+- `FN + [{`: Reducir la velocidad de la iluminación RGB.
+- `FN + }]`: Aumentar la velocidad de la iluminación RGB.
+- `FN + \\`: Cambiar entre los diferentes modos de iluminación RGB con un total de 18 modos distintos.
 
 ## Función de la perilla
 Ajustar el volumen: gire en el sentido contrario a las agujas del reloj para bajar el volumen, gire en el sentido de las agujas del reloj para subir el volumen, presione una vez para silenciar el audio.
