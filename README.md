@@ -3,7 +3,16 @@
 Manual en inglés del Teclado ZUOYA GMK67, traducido al español, elaborado a partir de la versión impresa original (inglés). Por Adrian Germán
 Gracias por ver esta guía, espero te sea de ayuda :)
 
-## Descripción clave del producto
+## Descripción del producto
+
+
+- Características físicas
+    - Una perilla intercambiable.
+    - Pies de goma para ajustar la altura, 3 elevaciones distintas.
+    - Interruptor físico para ajustarlo al modo Windows o Mac.
+    - Interruptor físico para cambiar entre los modos de conexión.
+    - Espacio para guardar el conector 2.4 Ghz.
+    - Estabilizadores incluidos y pre lubricados.
 
 - Triple conectividad (BT, 2.4G, USB)
 
@@ -18,6 +27,10 @@ Gracias por ver esta guía, espero te sea de ayuda :)
 - Compatibilidad con Windows, Mac y Linux (este con el modo Mac)
     - Es compatible con Linux pero se debe usar el modo Mac cambiando el interruptor físico, el único problema es que intercambia la tecla Win y Alt.
 
+- Iluminación RGB
+    - LEDs con orientación sur
+    - 18 modos de RBG preestablecidos
+
 - Paquete del teclado
     -  1 kit para teclado mecánico Zuoya GMK67.
     -  1 cable tipo C.
@@ -25,7 +38,7 @@ Gracias por ver esta guía, espero te sea de ayuda :)
     -  1 herramienta para extraer teclas y switches.
     -  1 manual de usuario (chino e inglés).
 
-###### Para poder comprender y utilizar todas las funciones de este kit de teclado, lea atentamente esta guía sobre su funcionamiento.
+##### Para poder comprender y utilizar todas las funciones de este kit de teclado, lea atentamente esta guía sobre su funcionamiento.
 
 ## RGB y modos de iluminación.
 
