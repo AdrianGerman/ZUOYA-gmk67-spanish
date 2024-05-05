@@ -6,19 +6,19 @@ Gracias por ver esta guía, espero te sea de ayuda :), **Estoy abierto a cualqui
 
 ## Índice
 
-- [GMK67 manual español](#ZUOYA GMK67 ESPAÑOL)
-	 - [Descripción del producto](##Descripción del producto)
-	 - [RGB y modos de iluminación](##RGB y modos de iluminación)
-	 - [Función de la perilla](##Función de la perilla)
-	 - [Combinaciones de teclas FN](##Combinaciones de teclas FN)
-	 - [Modos de emparejamiento](##Modos de emparejamiento(Cable/BT 5.0/2.4 Ghz):)
-	 	 - [Conexión por cable](###Conexión por cable "Conexión por cable")
-		 - [Emparejamiento Bluetooth](###Instrucciones de emparejamiento Bluetooth:)
-		 - [Conexión 2.4Ghz](###Conexión 2.4Ghz "Conexión 2.4Ghz")
-		 - [Suspensión automática](###Modo de suspensión automática)
-	 - [Efectos de iluminación personalizados](##Efectos de iluminación personalizados para un modo juego)
-	 - [Batería](##Batería)
-	 - [Controladores / Software](##Controladores / Software)
+- [GMK67 manual español](#zuoya-gmk67-español)
+	 - [Descripción del producto](#descripción-del-producto)
+	 - [RGB y modos de iluminación](#rgb-y-modos-de-iluminación)
+	 - [Función de la perilla](#función-de-la-perilla)
+	 - [Combinaciones de teclas FN](#combinaciones-de-teclas-fn)
+	 - [Modos de emparejamiento](#modos-de-emparejamientocablebt-5024-ghz)
+	 	 - [Conexión por cable](#conexión-por-cable)
+		 - [Emparejamiento Bluetooth](#instrucciones-de-emparejamiento-bluetooth)
+		 - [Conexión 2.4Ghz](#conexión-24ghz)
+		 - [Suspensión automática](#modo-de-suspensión-automática)
+	 - [Efectos de iluminación personalizados](#efectos-de-iluminación-personalizados-para-un-modo-juego)
+	 - [Batería](#batería)
+	 - [Controladores / Software](#controladores--software)
 
 ## Descripción del producto
 
