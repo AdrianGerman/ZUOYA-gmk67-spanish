@@ -1,12 +1,13 @@
 # ZUOYA GMK67 ESPAÑOL
 
-Manual en inglés del Teclado ZUOYA GMK67, traducido al español, elaborado a partir de la versión impresa original (inglés). Por Adrian Germán
-Gracias por ver esta guía, espero te sea de ayuda :)
+Manual en inglés del Teclado **ZUOYA GMK67**, traducido al español, elaborado a partir de la versión impresa [original](https://github.com/AdrianGerman/ZUOYA-gmk67-spanish/tree/main/scanned "original") (inglés). 
+Por [Adrian Germán](https://github.com/AdrianGerman "Adrian Germán")
+Gracias por ver esta guía, espero te sea de ayuda :), **Estoy abierto a cualquier sugerencia y/o corrección.**
 
 ## Descripción del producto
 
 
-- Características físicas
+- Características físicas.
     - Una perilla intercambiable.
     - Pies de goma para ajustar la altura, 3 elevaciones distintas.
     - Interruptor físico para ajustarlo al modo Windows o Mac.
@@ -14,24 +15,24 @@ Gracias por ver esta guía, espero te sea de ayuda :)
     - Espacio para guardar el conector 2.4 Ghz.
     - Estabilizadores incluidos y pre lubricados.
 
-- Triple conectividad (BT, 2.4G, USB)
+- Triple conectividad (BT, 2.4G, USB).
 
-- Switches
+- Switches.
     - PCB de switches intercambiables.
-    - Soporte para interruptores de 3/5 pines
+    - Soporte para interruptores de 3/5 pines.
 
-- Batería de 3,000 mAh
+- Batería de 3,000 mAh.
 
-- Contiene un total de 66 teclas (67 contando la perilla)
+- Contiene un total de 66 teclas (67 contando la perilla).
 
-- Compatibilidad con Windows, Mac y Linux (este con el modo Mac)
+- Compatibilidad con Windows, Mac y Linux (este con el modo Mac).
     - Es compatible con Linux pero se debe usar el modo Mac cambiando el interruptor físico, el único problema es que intercambia la tecla Win y Alt.
 
-- Iluminación RGB
-    - LEDs con orientación sur
-    - 18 modos de RBG preestablecidos
+- Iluminación RGB.
+    - LEDs con orientación sur.
+    - 18 modos de RBG preestablecidos.
 
-- Paquete del teclado
+- Paquete del teclado.
     -  1 kit para teclado mecánico Zuoya GMK67.
     -  1 cable tipo C.
     -  1 conector para la conexión 2.4 Ghz.
@@ -40,7 +41,7 @@ Gracias por ver esta guía, espero te sea de ayuda :)
 
 ##### Para poder comprender y utilizar todas las funciones de este kit de teclado, lea atentamente esta guía sobre su funcionamiento.
 
-## RGB y modos de iluminación.
+## RGB y modos de iluminación
 
 - `FN + ⬆️`: Aumentar el brillo de la iluminación RGB.
 - `FN + ⬇️`: Reducir el brillo de la iluminación RGB.
@@ -87,9 +88,9 @@ Cambien el interruptor físico, al modo cableado (USB) y luego inserté el cable
 
 ### Instrucciones de emparejamiento Bluetooth:
 
-1. Cambie el interruptor físico, al modo Bluetooth
+1. Cambie el interruptor físico, al modo Bluetooth.
 2. Mantenga presionado las teclas **FN + Q/W/E** durante 3-5 segundos para ingresar al modo de emparejamiento, en este momento, el indicador del dispositivo parpadeará rápidamente de color rojo/verde/azul, Q W y E son selectores para cada dispositivo vinculado.
-3. Entre a la configuración Bluetooth en el dispositivo que desee emparejarlo y busque 'dispositivos disponibles' busque y seleccione el dispositivo **'Teclado BT'** o **'BT Keyboard'**
+3. Entre a la configuración Bluetooth en el dispositivo que desee emparejarlo y busque 'dispositivos disponibles' busque y seleccione el dispositivo **'Teclado BT'** o **'BT Keyboard'**.
 4. Una vez que el teclado se haya conectado a su dispositivo, el indicador dejara de parpadear, lo que indica que el emparejamiento Bluetooth se realizó correctamente. Presione brevemente las teclas **'FN' y 'Q' o 'W','E'** para cambiar el dispositivo Bluetooth emparejado.
 
 ### Conexión 2.4Ghz
@@ -120,4 +121,3 @@ El software permite personalizaciones de colores y distintos modos, macros, reas
 Enlace de descarga del software
 
 - [GMK67 (todos los modelos)](http://mkb.gg/pages/download-center "GMK67 (todos los modelos)")
-
