@@ -4,6 +4,22 @@ Manual en inglés del Teclado **ZUOYA GMK67**, traducido al español, elaborado 
 Por [Adrian Germán](https://github.com/AdrianGerman "Adrian Germán")
 Gracias por ver esta guía, espero te sea de ayuda :), **Estoy abierto a cualquier sugerencia y/o corrección.**
 
+## Índice
+
+- [GMK67 manual español](#ZUOYA GMK67 ESPAÑOL)
+	 - [Descripción del producto](##Descripción del producto)
+	 - [RGB y modos de iluminación](##RGB y modos de iluminación)
+	 - [Función de la perilla](##Función de la perilla)
+	 - [Combinaciones de teclas FN](##Combinaciones de teclas FN)
+	 - [Modos de emparejamiento](##Modos de emparejamiento(Cable/BT 5.0/2.4 Ghz):)
+	 	 - [Conexión por cable](###Conexión por cable "Conexión por cable")
+		 - [Emparejamiento Bluetooth](###Instrucciones de emparejamiento Bluetooth:)
+		 - [Conexión 2.4Ghz](###Conexión 2.4Ghz "Conexión 2.4Ghz")
+		 - [Suspensión automática](###Modo de suspensión automática)
+	 - [Efectos de iluminación personalizados](##Efectos de iluminación personalizados para un modo juego)
+	 - [Batería](##Batería)
+	 - [Controladores / Software](##Controladores / Software)
+
 ## Descripción del producto
 
 
